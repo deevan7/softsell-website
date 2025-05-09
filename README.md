@@ -1,0 +1,1 @@
+# software-resale-startup-fictional-
