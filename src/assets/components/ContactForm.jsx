@@ -79,6 +79,13 @@ export default function InquiryForm() {
             </span>
           </button>
         </form>
+
+        {/* Designed by Deevankumar Gaddala */}
+        <div className="text-center mt-[60px]">
+          <p className="text-sm text-gray-600 dark:text-gray-400">
+            By <span className="font-semibold text-gray-900 dark:text-white">Deevankumar Gaddala</span>
+          </p>
+        </div>
       </div>
     </section>
   );
